@@ -15,14 +15,13 @@ def div(num1,num2):
 
 while True:
     print("#######")
-    print("CAlculator")
-    print("1: add")
-    print("2: substract")
-    print("3: multiplication")
-    print("4: division")
-    print("5: quite")
+    print("TODOLIST")
+    print("1: add to List")
+    print("2: Display the List")
+    print("3: Remove the List")
+    print("4: Exit")
 
-    option = input("select your operation : 1,2,3,4,5 ")
+    option = input("select your operation : 1,2,3,4, ")
 
     if option =="5": 
         print("exiting proogram ...!")
